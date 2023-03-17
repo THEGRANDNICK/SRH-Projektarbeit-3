@@ -1,9 +1,63 @@
+## A Night at Sally's House! 
+
+
+**Description**
+
+After parents bring home an old victorian dollhouse from the fleemarket and gift it to there child. The following night the child falls asleep and wakes up inside the dollhouse. Which as it turnes out to be haunted. 
+
+Now embark on an adventure to try and escape the haunted dollhouse in order to survive. Whilest trying to escape, solve puzzles as you are being chased be dolls trying to kill you.
+
+**Installation**
+
+1. Download the .zip file from Itch.io ( *[Itch.io page]https://tranor.itch.io/a-night-at-sallys-house* )
+2. Unzip the .zip file onto your Pc
+3. Double click on the Custodia.exe file
+4. The game will start
+5. Enjoy the demo of the game
+
+**Social Media**
+
+*[Itch.io page]https://tranor.itch.io/a-night-at-sallys-house*
+
+**Roadmap**
+
+It was meant to be 4 different rooms with different enemys doll monsters, but due to time issues we where not able to finish the 4th room completly. This might be added in the future..
+
+**Authors and acknowledgment**
+
+- Project Lead 
+    - BrassKing (Michi)
+    - Lapadama (Marko)
+- Lead Artist
+    -Trickster Aky (Andy)
+- Art Team
+    - Syrenaa (Leah)
+    - Ms. Whaleshark (Michelle)
+    - Munchkin1372 (Lena)
+- Lead Programmer
+    - Tranor (Görkem)
+- Programming Team
+    - WiSie98 (Willi)
+    - Nicolas V. (Nick)
+   
+**License**
+
+Made in collaboration with SRH Heidelberg Hochschule.
+A Night at Sally's House is owned by it's developers.
 # projektarbeit-iii-nyan
 projektarbeit-iii-nyan created by GitHub Classroom
 
-Alle Quellen, die hier Verzeichnet wurden, sind Quellen, die nicht von dem Team selbst erstellt wurden
+Download the game at A Night at Sally's House - Download *[here]https://tranor.itch.io/a-night-at-sallys-house*
 
-Quellangaben der Sounds:
+**Project status**
+
+Development might continue.
+
+**Sources**
+
+All used sources, that weren't created by the team are listed here
+
+*Sounds*
     https://www.youtube.com/watch?v=LVEWkghDh9A&list=LL&index=3
     https://www.youtube.com/watch?v=hPjXwR8kFJg&list=LL&index=1
     https://www.youtube.com/watch?v=j8Q4wBWmkEY
@@ -19,7 +73,7 @@ Quellangaben der Sounds:
     https://www.youtube.com/watch?v=iw-lwYCoV54
 
 
-Quellenangaben der Texturen:
+*Textures*
     https://www.textures.com/download/Photographs0003/102294
     https://www.textures.com/download/PBR0163/133198
     https://www.textures.com/download/PBR0479/138371
